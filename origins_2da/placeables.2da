@@ -301,3 +301,205 @@
 297   "Light: Candle, Arcane 3 (no ambient)* (Ben Harrison)"                 ****     bhp_arcn1j          ****       ****         ****         ****         23           1          0       ****           default       1
 298   "Light: Candle, Arcane 3 S* (Ben Harrison)"                            ****     bhp_arcn1k          4          0            0            0.25         23           1          0       ****           default       1
 299   "Light: Candle, Arcane 3 S (no ambient)* (Ben Harrison)"               ****     bhp_arcn1l          ****       ****         ****         ****         23           1          0       ****           default       1
+300   "SH Wall Hedge L 2000"                                                 ****     sh_hedgel2000       ****       ****         ****         ****         26           1          0       ****           ****          1    
+301   "SH Wall Hedge L 500"                                                  ****     sh_hedgel500        ****       ****         ****         ****         26           1          0       ****           ****          1      
+302   "SH Wall Hedge XL 2000"                                                ****     sh_hedgex2000       ****       ****         ****         ****         26           1          0       ****           ****          1      
+303   "SH Wall Hedge XL 1000"                                                ****     sh_hedgex1000       ****       ****         ****         ****         26           1          0       ****           ****          1      
+304   "SH Wall Hedge XL 500"                                                 ****     sh_hedgex500        ****       ****         ****         ****         26           1          0       ****           ****          1      
+305   "SH Wall Fence Rural 2000"                                             ****     sh_fence2000        ****       ****         ****         ****         26           1          0       ****           ****          1      
+306   "SH Wall Fence Rural 1000"                                             ****     sh_fence1000        ****       ****         ****         ****         26           1          0       ****           ****          1      
+307   "SH Wall Fence Rural 500"                                              ****     sh_fence500         ****       ****         ****         ****         26           1          0       ****           ****          1      
+308   "SH Wall Wood 1 2000"                                                  ****     sh_wall1x2wod1      ****       ****         ****         ****         26           1          0       ****           ****          1      
+309   "SH Wall Wood 1 1000"                                                  ****     sh_wall1x1wod1      ****       ****         ****         ****         26           1          0       ****           ****          1      
+310   "SH Wall Wood 1 500"                                                   ****     sh_wall500wod1      ****       ****         ****         ****         26           1          0       ****           ****          1      
+311   "SH Wall Wood 1 250"                                                   ****     sh_wall250wod1      ****       ****         ****         ****         26           1          0       ****           ****          1      
+312   "SH Wall Stone 1 2000"                                                 ****     sh_wall1x2stn1      ****       ****         ****         ****         26           1          0       ****           ****          1      
+313   "SH Wall Stone 1 1000"                                                 ****     sh_wall1x1stn1      ****       ****         ****         ****         26           1          0       ****           ****          1      
+314   "SH Wall Stone 1 500"                                                  ****     sh_wall500stn1      ****       ****         ****         ****         26           1          0       ****           ****          1      
+315   "SH Wall Stone 1 250"                                                  ****     sh_wall250stn1      ****       ****         ****         ****         26           1          0       ****           ****          1      
+316   "SH Wall OC Rural2c"                                                   ****     RuralWall2_bre      ****       ****         ****         ****         26           1          0       ****           ****          1      
+317   "SH Wall OC Rural2"                                                    ****     Ruralwall2_end      ****       ****         ****         ****         26           1          0       ****           ****          1      
+318   "SH Wall OC Rural2a"                                                   ****     Ruralwall2_mai      ****       ****         ****         ****         26           1          0       ****           ****          1      
+319   "SH Wall OC Rural2b"                                                   ****     ruralwall2_ma2      ****       ****         ****         ****         26           1          0       ****           ****          1      
+320   "SH Wall OC Rural Gateway"                                             ****     ruralwall2_gate     ****       ****         ****         ****         26           1          0       ****           ****          1      
+321   "SH Tree 01 Full"                                                      ****     sh_treetrunk01      ****       ****         ****         ****         18           1          0       ****           ****          1      
+322   "SH Tree 01 Chopped"                                                   ****     sh_treetrunk02      ****       ****         ****         ****         18           1          0       ****           ****          1      
+323   "SH Tree 01 Stump"                                                     ****     sh_treetrunk03      ****       ****         ****         ****         18           1          0       ****           ****          1      
+324   "SH Tree 01 Stack Large"                                               ****     sh_treetrunk04      ****       ****         ****         ****         18           1          0       ****           ****          1      
+325   "SH Tree 01 Stack Small"                                               ****     sh_treetrunk05      ****       ****         ****         ****         18           1          0       ****           ****          1      
+326   "SH Forest 01"                                                         ****     sh_forest01         ****       ****         ****         ****         18           1          0       ****           ****          1      
+327   "SH Bathtub Big 1"                                                     ****     sh_bathtubbig01     ****       ****         ****         ****         17           1          0       ****           ****          1      
+328   "SH Bathtub Big 2"                                                     ****     sh_bathtubbig02     ****       ****         ****         ****         17           1          0       ****           ****          1      
+329   "SH Bathtub Big 3"                                                     ****     sh_bathtubbig03     ****       ****         ****         ****         17           1          0       ****           ****          1      
+330   "SH Bathtable 1"                                                       ****     sh_bathsink01       ****       ****         ****         ****         18           1          0       ****           ****          1      
+331   "SH Bathtable 2"                                                       ****     sh_bathsink02       ****       ****         ****         ****         18           1          0       ****           ****          1      
+332   "SH Bathtable 3"                                                       ****     sh_bathsink03       ****       ****         ****         ****         18           1          0       ****           ****          1      
+333   "SH Bench Long 1"                                                      ****     sh_longbench01      ****       ****         ****         ****         17           1          0       ****           ****          1      
+334   "SH Bench Long 2"                                                      ****     sh_longbench02      ****       ****         ****         ****         17           1          0       ****           ****          1      
+335   "SH Bench Long 3"                                                      ****     sh_longbench03      ****       ****         ****         ****         17           1          0       ****           ****          1      
+336   "SH Bench Long 4"                                                      ****     sh_longbench04      ****       ****         ****         ****         17           1          0       ****           ****          1      
+337   "SH Tavern Bar Wood Drinks 1"                                          ****     SH_TavernBar01      ****       ****         ****         ****         26           1          0       ****           ****          1      
+338   "SH Tavern Bar Wood Drinks 2"                                          ****     SH_TavernBar02      ****       ****         ****         ****         26           1          0       ****           ****          1      
+339   "SH Tavern Bar Marble Drinks 1"                                        ****     SH_TavernBar03      ****       ****         ****         ****         26           1          0       ****           ****          1      
+340   "SH Tavern Bar Marble Drinks 2"                                        ****     SH_TavernBar04      ****       ****         ****         ****         26           1          0       ****           ****          1      
+341   "SH Tavern Bar Metal Drinks 1"                                         ****     SH_TavernBar05      ****       ****         ****         ****         26           1          0       ****           ****          1      
+342   "SH Tavern Bar Metal Drinks 2"                                         ****     SH_TavernBar06      ****       ****         ****         ****         26           1          0       ****           ****          1      
+343   "SH Tavern Bar Stone Drinks 1"                                         ****     SH_TavernBar07      ****       ****         ****         ****         26           1          0       ****           ****          1      
+344   "SH Tavern Bar Stone Drinks 2"                                         ****     SH_TavernBar08      ****       ****         ****         ****         26           1          0       ****           ****          1      
+345   "SH Tavern Bar Stone Drinks 3"                                         ****     SH_TavernBar09      ****       ****         ****         ****         26           1          0       ****           ****          1      
+346   "SH Tavern Bar Stone Drinks 4"                                         ****     SH_TavernBar10      ****       ****         ****         ****         26           1          0       ****           ****          1      
+347   "SH Tavern Bar Wood Clear 1"                                           ****     SH_TavernBar11      ****       ****         ****         ****         26           1          0       ****           ****          1      
+348   "SH Tavern Bar Wood Clear 2"                                           ****     SH_TavernBar12      ****       ****         ****         ****         26           1          0       ****           ****          1      
+349   "SH Cage Large Full 1"                                                 ****     sh_cell_large01     ****       ****         ****         ****         22           1          0       ****           ****          1      
+350   "SH Cage Large Full 2"                                                 ****     sh_cell_large02     ****       ****         ****         ****         22           1          0       ****           ****          1      
+351   "SH Cage Large Corner 1"                                               ****     sh_cell_large03     ****       ****         ****         ****         22           1          0       ****           ****          1      
+352   "SH Cage Large Corner 2"                                               ****     sh_cell_large04     ****       ****         ****         ****         22           1          0       ****           ****          1      
+353   "SH Cage Large Square"                                                 ****     sh_cell_large05     ****       ****         ****         ****         22           1          0       ****           ****          1      
+354   "SH Cage Arena Round Post"                                             ****     sh_arena01          ****       ****         ****         ****         22           1          0       ****           ****          1      
+355   "SH Cage Arena Round Wall"                                             ****     sh_arena02          ****       ****         ****         ****         22           1          0       ****           ****          1      
+356   "SH Cage Round Small"                                                  ****     sh_arena03          ****       ****         ****         ****         22           1          0       ****           ****          1      
+357   "SH Cage Round Cap Small"                                              ****     sh_arena03a         ****       ****         ****         ****         22           1          0       ****           ****          1      
+358   "SH Cage Round Medium"                                                 ****     sh_arena04          ****       ****         ****         ****         22           1          0       ****           ****          1      
+359   "SH Cage Round Large"                                                  ****     sh_arena05          ****       ****         ****         ****         22           1          0       ****           ****          1      
+360   "SH Cage Round Portal"                                                 ****     sh_arena06          ****       ****         ****         ****         22           1          0       ****           ****          1      
+361   "SH Cage Round Portal Door"                                            ****     sh_arena07          ****       ****         ****         ****         22           1          0       ****           ****          1      
+362   "SH twc Oven 1"                                                        ****     sh_tcw_oven01       ****       ****         ****         ****         20           1          0       ****           ****          1      
+363   "SH twc Oven 2"                                                        ****     sh_tcw_oven02       ****       ****         ****         ****         20           1          0       ****           ****          1      
+364   "SH Carpet Plain Rug 500x500"                                          ****     sh_carpet001a       ****       ****         ****         ****         23           1          0       ****           ****          1      
+365   "SH Carpet Plain Rug 500x1000"                                         ****     sh_carpet001b       ****       ****         ****         ****         23           1          0       ****           ****          1      
+366   "SH Carpet Plain Rug 500x2000"                                         ****     sh_carpet001c       ****       ****         ****         ****         23           1          0       ****           ****          1      
+367   "SH Carpet Plain Rug 1000x1000"                                        ****     sh_carpet001d       ****       ****         ****         ****         23           1          0       ****           ****          1      
+368   "SH Carpet Plain Red 500x500"                                          ****     sh_carpet002a       ****       ****         ****         ****         23           1          0       ****           ****          1      
+369   "SH Carpet Plain Red 500x1000"                                         ****     sh_carpet002b       ****       ****         ****         ****         23           1          0       ****           ****          1      
+370   "SH Carpet Plain Red 500x2000"                                         ****     sh_carpet002c       ****       ****         ****         ****         23           1          0       ****           ****          1      
+371   "SH Carpet Plain Red 1000x1000"                                        ****     sh_carpet002d       ****       ****         ****         ****         23           1          0       ****           ****          1      
+372   "SH Carpet Plain Red 1000x2000"                                        ****     sh_carpet002e       ****       ****         ****         ****         23           1          0       ****           ****          1      
+373   "SH Carpet Plain Red 2000x2000"                                        ****     sh_carpet002f       ****       ****         ****         ****         23           1          0       ****           ****          1      
+374   "SH Carpet Plain Black 500x500"                                        ****     sh_carpet003a       ****       ****         ****         ****         23           1          0       ****           ****          1      
+375   "SH Carpet Plain Black 500x1000"                                       ****     sh_carpet003b       ****       ****         ****         ****         23           1          0       ****           ****          1      
+376   "SH Carpet Plain Black 500x2000"                                       ****     sh_carpet003c       ****       ****         ****         ****         23           1          0       ****           ****          1      
+377   "SH Carpet Plain Black 1000x1000"                                      ****     sh_carpet003d       ****       ****         ****         ****         23           1          0       ****           ****          1      
+378   "SH Carpet Plain Black 1000x2000"                                      ****     sh_carpet003e       ****       ****         ****         ****         23           1          0       ****           ****          1      
+379   "SH Carpet Plain Black 2000x2000"                                      ****     sh_carpet003f       ****       ****         ****         ****         23           1          0       ****           ****          1      
+380   "SH Carpet Castle 04 500x1000"                                         ****     SH_Cas500x1K_04     ****       ****         ****         ****         23           1          0       ****           ****          1      
+381   "SH Carpet Castle 04 500x2000"                                         ****     SH_Cas500x2K_04     ****       ****         ****         ****         23           1          0       ****           ****          1      
+382   "SH Carpet Castle 04 1000x2000"                                        ****     SH_Cas1Kx2K_04      ****       ****         ****         ****         23           1          0       ****           ****          1      
+383   "SH Carpet Castle 04 1000x1000"                                        ****     SH_Cas1Kx1K_04      ****       ****         ****         ****         23           1          0       ****           ****          1      
+384   "SH Carpet Castle 04 2000x2000"                                        ****     SH_Cas2Kx2K_04      ****       ****         ****         ****         23           1          0       ****           ****          1      
+385   "SH Carpet Dais Throne 01"                                             ****     sh_daisthro01       ****       ****         ****         ****         16           1          0       ****           ****          1      
+386   "SH Carpet Dais Throne 02"                                             ****     sh_daisthro02       ****       ****         ****         ****         16           1          0       ****           ****          1      
+387   "SH Carpet Dais Throne 03"                                             ****     sh_daisthro03       ****       ****         ****         ****         16           1          0       ****           ****          1      
+388   "SH Carpet Dais Throne 04"                                             ****     sh_daisthro04       ****       ****         ****         ****         16           1          0       ****           ****          1      
+390   "SH Carpet Dais Throne 05"                                             ****     sh_daisthro05       ****       ****         ****         ****         16           1          0       ****           ****          1      
+391   "SH Carpet Dais Throne 06"                                             ****     sh_daisthro06       ****       ****         ****         ****         16           1          0       ****           ****          1      
+392   "SH Carpet Dais Throne 07"                                             ****     sh_daisthro07       ****       ****         ****         ****         16           1          0       ****           ****          1      
+393   "SH Carpet Dais Throne 08"                                             ****     sh_daisthro08       ****       ****         ****         ****         16           1          0       ****           ****          1      
+394   "SH Carpet Dais Throne 09"                                             ****     sh_daisthro09       ****       ****         ****         ****         16           1          0       ****           ****          1      
+395   "SH Carpet Dais Throne 10"                                             ****     sh_daisthro10       ****       ****         ****         ****         16           1          0       ****           ****          1      
+396   "SH Bed Dais 1"                                                        ****     sh_daisbed01        ****       ****         ****         ****         16           1          0       ****           ****          1      
+397   "SH Bed Dais 2"                                                        ****     sh_daisbed02        ****       ****         ****         ****         16           1          0       ****           ****          1      
+398   "SH Bed Dais 3"                                                        ****     sh_daisbed03        ****       ****         ****         ****         16           1          0       ****           ****          1      
+399   "SH Bed Dais 4"                                                        ****     sh_daisbed04        ****       ****         ****         ****         16           1          0       ****           ****          1      
+401   "SH Bed Dais 5"                                                        ****     sh_daisbed05        ****       ****         ****         ****         16           1          0       ****           ****          1      
+402   "SH Chair Giant Head01"                                                ****     it_talmisc_014      ****       ****         ****         ****         17           1          0       ****           ****          1      
+403   "SH Chair Throne Bones"                                                ****     sh_thronebone       ****       ****         ****         ****         17           1          0       ****           ****          1      
+404   "SH Chair Rock"                                                        ****     sh_chairrock1       ****       ****         ****         ****         17           1          0       ****           ****          1      
+405   "SH Chair Mushroom"                                                    ****     sh_chairshroom01    ****       ****         ****         ****         17           1          0       ****           ****          1      
+406   "SH Chair twc convert 1"                                               ****     sh_tcw_chair1       ****       ****         ****         ****         17           1          0       ****           ****          1      
+407   "SH twc Lighthouse"                                                    ****     sh_lighthouse01     ****       ****         ****         ****         26           1          0       ****           ****          1      
+408   "SH Table twc Kitchen 01"                                              ****     sh_tcw_tab01        ****       ****         ****         ****         18           1          0       ****           ****          1      
+409   "SH Table twc Shop 1"                                                  ****     SH_TableShop01      ****       ****         ****         ****         26           1          0       ****           ****          1      
+410   "SH Table Mushroom"                                                    ****     sh_tableshroom01    ****       ****         ****         ****         26           1          0       ****           ****          1      
+411   "SH Table Long Wood 1"                                                 ****     SH_TableLong01      ****       ****         ****         ****         26           1          0       ****           ****          1      
+412   "SH Table Long Wood 2"                                                 ****     SH_TableLong02      ****       ****         ****         ****         26           1          0       ****           ****          1      
+413   "SH Table Long Wood 3"                                                 ****     SH_TableLong03      ****       ****         ****         ****         26           1          0       ****           ****          1      
+414   "SH Table Long Wood 4"                                                 ****     SH_TableLong04      ****       ****         ****         ****         26           1          0       ****           ****          1      
+415   "SH Table Short Wood 1"                                                ****     SH_TableShort01     ****       ****         ****         ****         26           1          0       ****           ****          1      
+416   "SH Table Short Wood 2"                                                ****     SH_TableShort02     ****       ****         ****         ****         26           1          0       ****           ****          1      
+417   "SH Table Short Wood 3"                                                ****     SH_TableShort03     ****       ****         ****         ****         26           1          0       ****           ****          1      
+418   "SH Table Short Wood 4"                                                ****     SH_TableShort04     ****       ****         ****         ****         26           1          0       ****           ****          1      
+419   "SH Table Square Small 1"                                              ****     sh_tablesqr01       ****       ****         ****         ****         18           1          0       ****           ****          1      
+420   "SH Table Square Small 2"                                              ****     sh_tablesqr02       ****       ****         ****         ****         18           1          0       ****           ****          1      
+421   "SH Table Square Small 3"                                              ****     sh_tablesqr03       ****       ****         ****         ****         18           1          0       ****           ****          1      
+422   "SH Table Square Small 4"                                              ****     sh_tablesqr04       ****       ****         ****         ****         18           1          0       ****           ****          1      
+423   "SH Table Round Wood 1"                                                ****     SH_TableRound01     ****       ****         ****         ****         26           1          0       ****           ****          1      
+424   "SH Table Round Wood 2"                                                ****     SH_TableRound02     ****       ****         ****         ****         26           1          0       ****           ****          1      
+425   "SH Table Round Wood 3"                                                ****     SH_TableRound03     ****       ****         ****         ****         26           1          0       ****           ****          1      
+426   "SH Table Round Wood 4"                                                ****     SH_TableRound04     ****       ****         ****         ****         26           1          0       ****           ****          1      
+427   "SH Table Short Wood Drinks"                                           ****     SH_TableTavern1     ****       ****         ****         ****         26           1          0       ****           ****          1      
+428   "SH Table Round Wood Drinks"                                           ****     SH_TableTavern2     ****       ****         ****         ****         26           1          0       ****           ****          1      
+429   "SH Crate Stack OCO1"                                                  ****     sh_occrates01       ****       ****         ****         ****         13           1          0       ****           ****          1      
+430   "SH Display Case 01"                                                   ****     sh_display01        ****       ****         ****         ****         14           1          0       ****           dlag__ref01   2      
+431   "SH Display Case 02"                                                   ****     sh_display02        ****       ****         ****         ****         14           1          0       ****           dlag__ref01   2      
+432   "SH Display Case 03"                                                   ****     sh_display03        ****       ****         ****         ****         14           1          0       ****           dlag__ref01   2      
+433   "SH Display Case 04"                                                   ****     sh_display04        ****       ****         ****         ****         14           1          0       ****           dlag__ref01   2      
+434   "SH Display Case 05"                                                   ****     sh_display05        ****       ****         ****         ****         14           1          0       ****           dlag__ref01   2      
+435   "SH Display Case 06"                                                   ****     sh_display06        ****       ****         ****         ****         14           1          0       ****           dlag__ref01   2      
+436   "SH Display Case 07"                                                   ****     sh_display07        ****       ****         ****         ****         14           1          0       ****           dlag__ref01   2      
+437   "SH Display Case 08"                                                   ****     sh_display08        ****       ****         ****         ****         14           1          0       ****           dlag__ref01   2      
+438   "SH Display Case 09"                                                   ****     sh_display09        ****       ****         ****         ****         14           1          0       ****           dlag__ref01   2      
+439   "SH Display Case 10"                                                   ****     sh_display10        ****       ****         ****         ****         14           1          0       ****           dlag__ref01   2      
+440   "SH Dock Ramp Flat"                                                    ****     SH_Ramp_01          ****       ****         ****         ****         18           1          0       ****           ****          0      
+441   "SH Dock Ramp Low"                                                     ****     SH_Ramp_02          ****       ****         ****         ****         18           1          0       ****           ****          0      
+442   "SH Dock Ramp Basic"                                                   ****     SH_Ramp_03          ****       ****         ****         ****         18           1          0       ****           ****          0      
+443   "SH Dock Planks 1"                                                     ****     SH_Ramp_04          ****       ****         ****         ****         18           1          0       ****           ****          0      
+444   "SH Dock Planks 2"                                                     ****     SH_Ramp_05          ****       ****         ****         ****         18           1          0       ****           ****          0      
+445   "SH Banner White Lotus"                                                ****     sh_oriban001        ****       ****         ****         ****         23           1          0       ****           ****          1      
+446   "SH Banner Black Lotus"                                                ****     sh_oriban002        ****       ****         ****         ****         23           1          0       ****           ****          1
+447   "SH Wall Hedge L 1000"                                                 ****     sh_hedgel1000       ****       ****         ****         ****         26           1          0       ****           ****          1      
+448   
+449   
+450   
+451   
+452   
+453   
+454   
+455   
+456   
+457   
+458   
+459   
+460   
+461   
+462   
+463   
+464   
+465   
+466   
+467   
+468   
+469   
+470   
+471   
+472   
+473   
+474   
+475   
+476   
+477   
+478   
+479   
+480   
+481   
+482   
+483   
+484   
+485   
+486   
+487   
+488   
+490   
+491   
+492   
+493   
+494   
+495   
+496   
+497   
+498   
+499   
+
+
+
+
+
